@@ -1,0 +1,12 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 32px;
+}
+
+.pass {
+  background-color: green;
+}
+
+.fail {
+  background-color: salmon;
+}
